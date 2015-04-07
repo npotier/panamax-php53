@@ -1,0 +1,10 @@
+---
+name: ACSEO / LAMP / PHP 5.3
+description: ACSEO / LAMP / PHP 5.3
+keywords: ''
+type: LAMP
+documentation: ''
+images:
+- name: jolicode_php53_latest
+  source: jolicode/php53:latest
+  type: Default
